@@ -1,0 +1,131 @@
+body {
+	background-color:#FFFFFF ! important;
+	background-image:none ! important;
+	margin:0px ! important;
+}
+
+.header .divRight {
+	display:none ! important;
+}
+
+.menu {
+	display:none ! important;
+}
+
+.footer {
+	display:none ! important;
+}
+
+div,
+span {
+	background-color:#FFFFFF ! important;
+	background-image:none ! important;
+	border:none ! important;
+	clear:both ! important;
+	color:#000000 ! important;
+	display:block ! important;
+	float:none ! important;
+	height:auto ! important;
+	margin:0px ! important;
+	min-height:auto ! important;
+	padding:0px ! important;
+	position:relative;
+	width:100% ! important;
+}
+
+span {
+	display:inline ! important;
+	position:relative ! important;
+}
+
+span img {
+	padding:0px 0px 0px 0px ! important;
+}
+
+ul,
+li,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+	background-color:#FFFFFF ! important;
+	background-image:none ! important;
+	border:none ! important;
+	clear:both ! important;
+	color:#000000 ! important;
+	display:block ! important;
+	float:none ! important;
+	padding:0px 0px 0px 0px ! important;
+	margin:0px 0px 20px 0px ! important;
+	width:auto ! important;
+}
+
+.clear {
+	display:none ! important;
+}
+
+ul {
+	list-style-type:disc ! important;
+	margin:0px 0px 0px 0px ! important;
+	padding:0px 0px 0px 20px ! important;
+}
+
+img {
+	border:none ! important;
+	clear:both ! important;
+	display:block ! important;
+	float:none ! important;
+	padding:0px 0px 20px 0px ! important;
+	margin:0px 0px 0px 0px ! important;
+}
+
+.b {
+	background-image:none ! important;
+}
+
+.r {
+	background-image:none ! important;
+}
+
+.t {
+	background-image:none ! important;
+}
+
+.l {
+	background-image:none ! important;
+}
+
+.bl {
+	background-image:none ! important;
+}
+
+.br {
+	background-image:none ! important;
+}
+
+.tl {
+	background-image:none ! important;
+}
+
+.tr {
+	background-image:none ! important;
+}
+
+/*
+     FILE ARCHIVED ON 06:21:06 Jan 22, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:34:04 May 25, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.602
+  load_resource: 337.142 (2)
+  PetaboxLoader3.datanode: 83.502 (2)
+  PetaboxLoader3.resolve: 216.59
+*/
